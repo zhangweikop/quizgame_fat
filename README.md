@@ -1,4 +1,4 @@
-## Python Flask Skeleton for Google App Engine
+## Python Flask for Google App Engine
 
 ![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
 
